@@ -1,0 +1,24 @@
+img {
+    height:300px;
+}
+
+body, .bg-light {
+    background-color: rgb(255,244,235)!important;
+    width:900px;
+    margin:auto;
+}
+
+.navbar {
+    background-color: red!;
+}
+
+/* .top-bar {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+} */
+
+.container {
+    display:block;
+}
